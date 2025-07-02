@@ -24,4 +24,4 @@ wsManager.listen();
 // Start the HTTP server instead of the Express app
 server.listen(PORT, () => {
   console.log(`[server]: Server is running at http://localhost:${PORT}`);
-});
+})
